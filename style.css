@@ -1,4 +1,8 @@
 p {
     color: aqua;
-    background-color: crimson;
+
+}
+
+hover:p {
+    background-color: blue;
 }
